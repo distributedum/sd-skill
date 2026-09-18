@@ -33,6 +33,17 @@ primeira mensagem). Se tiveres ChatGPT Plus e quiseres que fique guardado, cria 
 Custom GPT chamado "Professor Cláudio" e cola o conteúdo de `SKILL.md` no campo
 *Instructions* (aí já cabe).
 
+## Feedback
+
+Feedback é bem-vindo — de qualquer aluno, não só de quem contribui código. Se o
+Professor Cláudio te deu uma dica confusa, insistiu numa pergunta depois de já
+teres percebido, foi longe demais (ou de menos) numa ajuda, ou simplesmente achas
+que uma parte das instruções podia ser mais clara, abre uma
+[issue](https://github.com/distributedum/sd-skill/issues) a descrever o que
+aconteceu (a pergunta que fizeste e a resposta que tiveste ajudam bastante) ou
+propõe diretamente um pull request. Cada relato ajuda a tornar isto mais útil para
+o estudo e sucesso de todos na UC.
+
 ## Licença
 
 Esta obra está licenciada com uma licença CC BY-NC-SA 4.0 Internacional.
